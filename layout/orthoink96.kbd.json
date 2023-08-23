@@ -1,0 +1,206 @@
+[
+  {
+    "backcolor": "#b38282",
+    "name": "OrthoInk96",
+    "author": "JotaEmePM",
+    "background": {
+      "name": "Carbon fibre 1",
+      "style": "background-image: url('/bg/carbonfibre/carbon_texture1879.png');"
+    },
+    "switchMount": "cherry"
+  },
+  [
+    "ESC",
+    "F1",
+    "F2",
+    "F3",
+    "F4",
+    "F5",
+    "F6",
+    "F7",
+    "F8",
+    "F9",
+    "F10",
+    "F11",
+    "F12",
+    {
+      "a": 7
+    },
+    "PRINT SCR",
+    "BLOQ DESP",
+    "PAUSE INTER",
+    "INS",
+    "BLOQ NUM",
+    "<i class='fa fa-music'></i>",
+    "<i class='fa fa-bell-slash-o'></i>"
+  ],
+  [
+    {
+      "a": 4
+    },
+    "|\n°\n\n¬",
+    "1\n!",
+    "2\n\"",
+    "3\n#",
+    "4\n$",
+    "5\n%",
+    "6\n&",
+    "7\n/",
+    "8\n(",
+    "9\n)",
+    "0\n=",
+    "'\n?\n\n\\",
+    "¿\n¡",
+    {
+      "a": 7,
+      "w": 2
+    },
+    "<i class='fa fa-chevron-left'></i>",
+    "HOME",
+    "/",
+    "*",
+    "-",
+    "+"
+  ],
+  [
+    "TAB",
+    {
+      "a": 4
+    },
+    "\n\n\n@\n\n\n\n\n\nQ",
+    {
+      "a": 7
+    },
+    "W",
+    "E",
+    "R",
+    "T",
+    "Y",
+    "U",
+    "I",
+    "O",
+    "P",
+    {
+      "a": 4
+    },
+    "´\n¨",
+    "+\n*\n\n~",
+    {
+      "a": 7,
+      "w": 2
+    },
+    "SUPR",
+    "END",
+    "7",
+    "8",
+    "9",
+    "VOL UP"
+  ],
+  [
+    "MAYS",
+    "A",
+    "S",
+    "D",
+    "F",
+    "G",
+    "H",
+    "J",
+    "K",
+    "L",
+    "Ñ",
+    {
+      "a": 4
+    },
+    "{\n[\n\n^",
+    "}\n]\n\n`",
+    {
+      "a": 7,
+      "w": 2
+    },
+    "ENTER",
+    "pgUP",
+    "4",
+    "5",
+    "6",
+    "VOL DN"
+  ],
+  [
+    "SHIFT",
+    {
+      "a": 4
+    },
+    "<\n>",
+    {
+      "a": 7
+    },
+    "Z",
+    "X",
+    "C",
+    "V",
+    "B",
+    "N",
+    "M",
+    {
+      "a": 4
+    },
+    ",\n;",
+    ".\n:",
+    "-\n_",
+    {
+      "a": 7,
+      "w": 2
+    },
+    "SHIFT",
+    {
+      "a": 5
+    },
+    "<i class='fa fa-arrow-up'></i>",
+    {
+      "a": 7
+    },
+    "pgDN",
+    "1",
+    "2",
+    "3",
+    {
+      "h": 2
+    },
+    "INTRO"
+  ],
+  [
+    "CTRL",
+    "<i class='fa fa-windows'></i>",
+    "ALT",
+    {
+      "x": 0.25,
+      "f": 4,
+      "w": 6.25
+    },
+    "",
+    {
+      "x": 0.5,
+      "f": 3
+    },
+    "ALT GR",
+    "FN",
+    "CTRL",
+    {
+      "a": 4
+    },
+    "\n<i class='fa fa-arrow-left'></i>",
+    {
+      "a": 5
+    },
+    "\n<i class='fa fa-arrow-down'></i>",
+    {
+      "a": 4
+    },
+    "\n\n\n<i class='fa fa-arrow-right'></i>",
+    {
+      "a": 7
+    },
+    "0",
+    ",",
+    "<i class='fa fa-navicon'></i>"
+  ]
+]
